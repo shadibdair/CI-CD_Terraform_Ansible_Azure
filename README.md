@@ -1,8 +1,6 @@
 # Week_07
 
-[![Build status](https://houssemdellai.visualstudio.com/Java-SpringBoot-WebApp/_apis/build/status/Java-SpringBoot-Maven-CI)](https://houssemdellai.visualstudio.com/Java-SpringBoot-WebApp/_build/latest?definitionId=96)
-
-Using CI/CD in Azure DevOps.
+Using CI/CD in [![Build status](https://houssemdellai.visualstudio.com/Java-SpringBoot-WebApp/_apis/build/status/Java-SpringBoot-Maven-CI)](https://houssemdellai.visualstudio.com/Java-SpringBoot-WebApp/_build/latest?definitionId=96)
 
 Two environments:
 - Staging
