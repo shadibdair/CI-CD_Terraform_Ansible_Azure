@@ -86,6 +86,11 @@ The associated blog post goes into more detail on how to set up PostgreSQL with 
 
 ---
 
+<img width="1169" alt="Screen Shot 2021-10-31 at 4 58 08" src="https://user-images.githubusercontent.com/43513994/139565128-da6212ac-e9b3-450c-bcf8-f244cc5f78d3.png">
+<img width="1169" alt="Screen Shot 2021-10-31 at 4 56 33" src="https://user-images.githubusercontent.com/43513994/139565132-eb6c84ea-a62b-406e-88ea-2ad2a9ee8d35.png">
+
+---
+
 <img width="1168" alt="Screen Shot 2021-10-31 at 3 07 58" src="https://user-images.githubusercontent.com/43513994/139564022-518202f4-690b-47a2-bc2a-42cbbfba9875.png">
 
 ---
