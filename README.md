@@ -90,6 +90,11 @@ The associated blog post goes into more detail on how to set up PostgreSQL with 
 
 ---
 
+<img width="1169" alt="Screen Shot 2021-10-31 at 4 36 15" src="https://user-images.githubusercontent.com/43513994/139564516-f0917d26-5374-4e4b-9418-4adc34944870.png">
+
+
+---
+
 <img width="1168" alt="Screen Shot 2021-10-31 at 3 13 08" src="https://user-images.githubusercontent.com/43513994/139564057-ed02b9ee-787a-4b2e-8d64-ef4cb6fd0127.png">
 
 ---
@@ -118,6 +123,10 @@ The associated blog post goes into more detail on how to set up PostgreSQL with 
 
 ---
 
+<img width="1169" alt="Screen Shot 2021-10-31 at 4 31 19" src="https://user-images.githubusercontent.com/43513994/139564414-46f57259-383a-4c68-82aa-fd9bf5facd0c.png">
+
+---
+
 <img width="1434" alt="Screen Shot 2021-10-31 at 4 13 10" src="https://user-images.githubusercontent.com/43513994/139564114-05be9d87-0711-426c-b871-a750041eb388.png">
 
 ---
@@ -131,4 +140,9 @@ The associated blog post goes into more detail on how to set up PostgreSQL with 
 ---
 
 <img width="1432" alt="Screen Shot 2021-10-31 at 4 07 23" src="https://user-images.githubusercontent.com/43513994/139564118-04ac7309-9785-4eed-a94e-222471c21e76.png">
+
+---
+
+Thank you for your time
+-Shadi Badir
 
